@@ -1,6 +1,6 @@
 # Hi there 👋, I am Emon
 #### Front End Developer 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 Skills: JS / HTML / CSS / BOOTSTRAP / PYTHON/ DJANGO
 
