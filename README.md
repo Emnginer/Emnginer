@@ -1,5 +1,5 @@
 
-<img height="300" align="center" width="" src="https://cdn.dribbble.com/users/241402/screenshots/5490681/duik.gif">
+<img align="center" src="https://cdn.dribbble.com/users/241402/screenshots/5490681/duik.gif">
 
 
 # Hi there 👋, I am Emon
