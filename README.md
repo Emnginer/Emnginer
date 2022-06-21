@@ -2,7 +2,7 @@
 <img align="center" height="250" width="300" src="https://cdn.dribbble.com/users/241402/screenshots/5490681/duik.gif">
 
 
-# Hi there 👋, I am Emon
+# Hi there, I am Emon
 #### Front End Developer 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
