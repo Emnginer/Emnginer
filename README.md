@@ -1,5 +1,7 @@
 
 <img src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
+
+
 # Hi there 👋, I am Emon
 #### Front End Developer 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
