@@ -1,5 +1,5 @@
 
-<img height="300" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
+<img height="300" width="100%" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
 
 
 # Hi there 👋, I am Emon
