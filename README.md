@@ -1,5 +1,5 @@
 
-<img align="center" height="250" width="300" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man_1f468.png">
+<img align="center" height="100" width="100" src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif">
 
 # Hi there, I am Emon
 #### Front End Developer 
