@@ -1,5 +1,5 @@
 
-<img align="center" height="250" width="300" src="https://cdn.dribbble.com/users/241402/screenshots/5490681/duik.gif">
+<img align="center" height="250" width="300" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man_1f468.png">
 
 # Hi there, I am Emon
 #### Front End Developer 
