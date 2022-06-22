@@ -1,7 +1,5 @@
 
 <img align="center" height="250" width="300" src="https://cdn.dribbble.com/users/241402/screenshots/5490681/duik.gif">
-
-
 # Hi there, I am Emon
 #### Front End Developer 
 #### PYTHONIST <img width="30" height="20" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/snake_1f40d.png"> 
